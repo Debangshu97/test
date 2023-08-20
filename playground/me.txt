@@ -1,0 +1,5 @@
+{{#user}}
+Name: Debangshu Kantha
+Skills: HTML, CSS, JS, React , Redux , Axios , Node.js
+Email: kanthadebangshu97@gmail.com
+{{/user}}
